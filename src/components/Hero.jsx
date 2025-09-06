@@ -55,7 +55,7 @@ const Hero = () => {
                 </button>
                 
                 <a
-                  href="../../public/resume.pdf"
+                  href="/resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group inline-flex items-center gap-3 px-8 py-4 border border-zinc-700 text-zinc-200 hover:border-white hover:text-white transition-all duration-300"
